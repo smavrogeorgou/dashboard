@@ -1,3 +1,3 @@
-# dashboard
+# Animated Dashboard
 
-This is a project to expiriment with javascript and html creating a interactive dashboard
+This is a project to expiriment with javascript and html creating an interactive dashboard
