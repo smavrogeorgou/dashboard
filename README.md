@@ -1,10 +1,10 @@
 # Installation
 
-To run the code you need to install Javascript, HTML and CSS
+To run the dashboard download the project and open the html file in a browser.
 
 # Project motivation
 
-This is a project to expiriment with Javascript and HTML creating an interactive dashboard
+This is a project to expiriment with Javascript and HTML/CSS creating an interactive dashboard
 
 # Results
  An interactive dashboard that presents information about different space probes such as distance from earth, 
