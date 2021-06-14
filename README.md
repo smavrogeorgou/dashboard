@@ -1,15 +1,16 @@
-# Animated Dashboard
+# Installation
 
-This is a project to expiriment with javascript and html creating an interactive dashboard
-<br>
-<br>
+To run the code you need to install Javascript, HTML and CSS
 
-Probes-Space is a dashboard that presents information about the probes such as distance from earth, 
-destination, launch date in a chart and graph. 
+# Project motivation
+
+This is a project to expiriment with Javascript and HTML creating an interactive dashboard
+
+# Results
+ An interactive dashboard that presents information about different space probes such as distance from earth, 
+destination, launch date in a chart and a table.
 The data and the necessary information have been taken from the NASA website.
 <br>
-
-
 
 ![image](https://user-images.githubusercontent.com/85845013/121944223-b43f6d00-cd52-11eb-956d-e3eae79df29a.png)
 
