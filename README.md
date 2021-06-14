@@ -11,8 +11,7 @@ The data and the necessary information have been taken from the NASA website.
 
 
 
-
-![DASHBOARD](https://user-images.githubusercontent.com/85845013/121902520-af18f880-cd27-11eb-907a-00bdafdbb90c.png)
+![image](https://user-images.githubusercontent.com/85845013/121944223-b43f6d00-cd52-11eb-956d-e3eae79df29a.png)
 
 <br>
 
